@@ -1,0 +1,27 @@
+{
+    "welcome": "Uygulamama hoş geldiniz",
+    "login": "Giriş Yap",
+    "register": "Kayıt Ol",
+    "logout": "Oturum Kapat",
+    "home": "Ana Sayfa",
+    "about": "Hakkında",
+    "title": "Başlık",
+    "home_page": {
+        "title": "Ana Sayfa",
+        "content": "Güzel bir gün geçirmeniz dileğiyle. İşte size öneriler:",
+        "suggestions": "Öneriler",
+        "suggestion": "Öneri",
+        "add": "Öneri Ekle"
+    },
+    "content": "İçerik",
+    "author": "Yazar",
+    "change_language": "Dili Değiştir",
+    "board": {
+        "title_1": "Hoş geldiniz!",
+        "title_2": "Tavsiyeler Ekleyin",
+        "title_3": "Başlayın",
+        "description_1": "Bu uygulama, kullanıcıların günlük tavsiyelerini ve motivasyon sözcüklerini kaydetmelerine yardımcı olur.",
+        "description_2": "Her gün yeni bir tavsiye ekleyebilir ve motivasyonunuzu yüksek tutabilirsiniz.",
+        "description_3": "Hemen başlayın ve tavsiyelerinizi kaydedin!"
+    }
+}

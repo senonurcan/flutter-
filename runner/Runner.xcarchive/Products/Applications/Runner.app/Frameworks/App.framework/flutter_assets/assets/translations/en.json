@@ -1,0 +1,27 @@
+{
+    "welcome": "Welcome",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "home": "Home",
+    "about": "About",
+    "title": "Title",
+    "home_page": {
+        "title": "Home Page",
+        "content": "Welcome to the home page of the application. You can see the latest suggestions and add your own suggestions.",
+        "suggestions": "Suggestions",
+        "suggestion": "Suggestion",
+        "add": "Add Suggestion"
+    },
+    "content": "Content",
+    "author": "Author",
+    "change_language": "Change Language",
+    "board": {
+        "title_1": "This app helps you to keep your motivation high.",
+        "title_2": "Add a Suggestion",
+        "title_3": "Begin a new day with a new suggestion.",
+        "description_1": "You can add a new suggestion every day and keep your motivation high.",
+        "description_2": "All day long, you can see the suggestions of other users and add your own suggestions.",
+        "description_3": "You can add a new suggestion every day and keep your motivation high."
+    }
+}

@@ -1,0 +1,19 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mucahitsimsek/Library/Developer/Xcode/DerivedData/Runner-cyjoosvjxilrzqdfbqpclbrdyuun/Build/Intermediates.noindex/ArchiveIntermediates/Runner/IntermediateBuildFilesPath/UninstalledProducts/iphoneos/flutter_secure_storage.framework/flutter_secure_storage'
+relocations:
+  - { offsetInCU: 0x33, offset: 0x3C6C, size: 0x8, addend: 0x0, symName: _flutter_secure_storageVersionString, symObjAddr: 0x0, symBinAddr: 0x55F0, symSize: 0x0 }
+  - { offsetInCU: 0x67, offset: 0x3CA0, size: 0x8, addend: 0x0, symName: _flutter_secure_storageVersionNumber, symObjAddr: 0x38, symBinAddr: 0x5628, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x3CDC, size: 0x8, addend: 0x0, symName: '-[FlutterSecureStoragePlugin init]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xCC }
+  - { offsetInCU: 0x11F, offset: 0x3DD4, size: 0x8, addend: 0x0, symName: '-[FlutterSecureStoragePlugin init]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xCC }
+  - { offsetInCU: 0x153, offset: 0x3E08, size: 0x8, addend: 0x0, symName: '+[FlutterSecureStoragePlugin registerWithRegistrar:]', symObjAddr: 0xCC, symBinAddr: 0x40CC, symSize: 0xA4 }
+  - { offsetInCU: 0x1AC, offset: 0x3E61, size: 0x8, addend: 0x0, symName: '-[FlutterSecureStoragePlugin handleMethodCall:result:]', symObjAddr: 0x170, symBinAddr: 0x4170, symSize: 0x44C }
+  - { offsetInCU: 0x33B, offset: 0x3FF0, size: 0x8, addend: 0x0, symName: '-[FlutterSecureStoragePlugin write:forKey:forGroup:accessibilityAttr:forAccountName:forSynchronizable:]', symObjAddr: 0x5BC, symBinAddr: 0x45BC, symSize: 0x3DC }
+  - { offsetInCU: 0x4AF, offset: 0x4164, size: 0x8, addend: 0x0, symName: '-[FlutterSecureStoragePlugin read:forGroup:forAccountName:forSynchronizable:]', symObjAddr: 0x998, symBinAddr: 0x4998, symSize: 0x1C4 }
+  - { offsetInCU: 0x592, offset: 0x4247, size: 0x8, addend: 0x0, symName: '-[FlutterSecureStoragePlugin delete:forGroup:forAccountName:forSynchronizable:]', symObjAddr: 0xB5C, symBinAddr: 0x4B5C, symSize: 0x18C }
+  - { offsetInCU: 0x642, offset: 0x42F7, size: 0x8, addend: 0x0, symName: '-[FlutterSecureStoragePlugin deleteAll:forAccountName:forSynchronizable:]', symObjAddr: 0xCE8, symBinAddr: 0x4CE8, symSize: 0x134 }
+  - { offsetInCU: 0x6D1, offset: 0x4386, size: 0x8, addend: 0x0, symName: '-[FlutterSecureStoragePlugin readAll:forAccountName:forSynchronizable:]', symObjAddr: 0xE1C, symBinAddr: 0x4E1C, symSize: 0x34C }
+  - { offsetInCU: 0x7E3, offset: 0x4498, size: 0x8, addend: 0x0, symName: '-[FlutterSecureStoragePlugin query]', symObjAddr: 0x1168, symBinAddr: 0x5168, symSize: 0x8 }
+  - { offsetInCU: 0x817, offset: 0x44CC, size: 0x8, addend: 0x0, symName: '-[FlutterSecureStoragePlugin setQuery:]', symObjAddr: 0x1170, symBinAddr: 0x5170, symSize: 0xC }
+  - { offsetInCU: 0x854, offset: 0x4509, size: 0x8, addend: 0x0, symName: '-[FlutterSecureStoragePlugin .cxx_destruct]', symObjAddr: 0x117C, symBinAddr: 0x517C, symSize: 0xC }
+...
